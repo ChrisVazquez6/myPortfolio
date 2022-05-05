@@ -1,0 +1,11 @@
+#img{
+  width: 200%;
+  height: auto;
+}
+.background{
+  background-image: url(https://cdn.dribbble.com/users/211312/screenshots/6007441/media/8b59f94d9ef3e15c2e3ae256bc4aa28d.jpg?compress=1&resize=400x300&vertical=top);
+  background-size: 100px;
+  width: 100px;
+  height: 100px;
+  border: solid;
+}
